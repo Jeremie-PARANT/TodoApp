@@ -1,3 +1,25 @@
 body {
     background-color: skyblue;
+    margin: 5% 5%;
+}
+td, th {
+    padding: 10px 24px;
+    border: 2px solid black;
+    background: white;
+}
+table {
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+form {
+    margin: 20px 0;
+    border: 2px solid black;
+    padding: 12px 12px;
+    background: white;
+    width: fit-content;
+}
+
+.noB {
+    border: none !important;
+    padding: 0 !important;
 }
